@@ -1,4 +1,4 @@
-# POS Inventory Management System(ui only)
+# POS Inventory Management System(Ui Only)
 
 A complete inventory management system built with React and Tailwind CSS.
 
